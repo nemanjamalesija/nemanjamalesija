@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nemanja</h1>
-<h3 align="center">Full stack web developer</h3>
-
+<h1 align="center">Hi there 👋</h1>
 
 <p>My name is Nemanja and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.</p><br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
 
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
   
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
