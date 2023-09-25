@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
 
-| First Header  | Second Header |
+
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
