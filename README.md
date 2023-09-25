@@ -1,10 +1,11 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p>My name is Nemanja and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.</p><br><br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   
-  
 
+  <p dir="auto"><br><a href="https://www.linkedin.com/in/nemanja-malesija/" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="malesija.nemanja@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
+
+<h1 id="user-content--technologies--tools" dir="auto"><a class="heading-link" href="#-technologies--tools">🔧 Technologies &amp; Tools<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
 <table>
   <tbody><tr>
     <td align="center" height="108" width="108">
@@ -18,10 +19,6 @@
     <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="48" height="48" alt="React" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a>
       <br><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="48" height="48" style="max-width: 100%;"/> </a>
-      <br><strong>Redux</strong>
     </td>
     <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/077997d77bfa74b144c9e286e65143b4edc547dc948098491264bb2dde282d6b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/077997d77bfa74b144c9e286e65143b4edc547dc948098491264bb2dde282d6b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2e737667" width="48" height="48" alt="VueJS" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width: 100%;"></a>
@@ -38,10 +35,6 @@
     <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" width="48" height="48" alt="Sass" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="max-width: 100%;"></a>
       <br><strong>Sass</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/964a169bbc7417bcf2b1ee0ddd2122d9592a50dee693f9421428bdd11d32c18e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667"><img src="https://camo.githubusercontent.com/964a169bbc7417bcf2b1ee0ddd2122d9592a50dee693f9421428bdd11d32c18e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667" width="48" height="48" alt="Bootstrap" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;"></a>
-      <br><strong>Bootstrap</strong>
     </td>
   </tr>
   <tr>
@@ -76,6 +69,7 @@
 
   </tr>
 </tbody></table>
+
 
 
 
