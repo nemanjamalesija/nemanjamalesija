@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td align="center" height="121" width="121">
-    <img src="https://miro.medium.com/v2/resize:fit:636/format:webp/1*7jRD5QhgARucFKvRHFxpOg.png" alt="styled components" width="48" height="48" style="max-width: 100%;"/> 
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Iohnw2aOQ5EBghVoqKA7VA.png" alt="styled components" width="48" height="48" style="max-width: 100%;"/> 
       <br><strong>Styled components</strong>
     </td>
   <td align="center" height="121" width="121">
